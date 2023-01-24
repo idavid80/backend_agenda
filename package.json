@@ -1,0 +1,30 @@
+{
+  "name": "backend_agenda",
+  "version": "1.0.0",
+  "description": "backend_agenda",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idavid80/backend_agenda.git"
+  },
+  "author": "idavid80",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idavid80/backend_agenda/issues"
+  },
+  "homepage": "https://github.com/idavid80/backend_agenda#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint": "^8.32.0",
+    "eslint-plugin-react": "^7.32.1"
+  }
+}
